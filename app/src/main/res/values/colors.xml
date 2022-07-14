@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorDigitButton">#31357f</color>
+    <color name="colorDigitButtonPressed">#3e51b9</color>
+
+    <color name="colorDigitButton2">#1754a3</color>
+    <color name="colorDigitButton2Pressed">#1f98f3</color>
+
+    <color name="colorDigitButton3">#036b6b</color>
+    <color name="colorDigitButton3Pressed">#10c4d1</color>
+
+    <color name="colorCallerButton">#225c22</color>
+    <color name="colorCallerButtonPressed">#4cac51</color>
+
+    <color name="colorDeleteButton">#b51f1d</color>
+    <color name="colorDeleteButtonPressed">#f63f35</color>
+
+    <color name="colorWhiteText">#FFFFFF</color>
+
+
+</resources>
